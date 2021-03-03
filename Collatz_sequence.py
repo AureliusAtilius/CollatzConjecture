@@ -18,4 +18,4 @@ def collatz(number):
 
 
 
-collatz(int(input("Please input a number")))
+collatz(int(input("Please input a number\n")))
